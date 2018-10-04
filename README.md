@@ -1,2 +1,5 @@
 # iOS-12.0-SpringBoard-Headers
-iOS-12.0-SpringBoard-Headers
+
+Pulled from an iPhone SE on iOS 12.0 thanks to the Shortcut application.
+
+Shortcut link: https://www.icloud.com/shortcuts/ced1f4f5b6884ca89c6c2513d7ed54e7
